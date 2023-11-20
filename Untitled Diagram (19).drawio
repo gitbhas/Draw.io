@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-11-10T01:22:10.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="xN9szkiehGxRw7gTGIV9" version="22.0.3" type="device" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T01:04:11.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-L4Wt3-4ANNDbUC_rhYR" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="dAJK7qwIbZhaCUMcm47f">
-    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
             <mxPoint x="69.75" y="454" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="plxMo8V-IKRrsIrN57Pz-81" value="Privatelink" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="plxMo8V-IKRrsIrN57Pz-80" vertex="1" connectable="0">
+        <mxCell id="plxMo8V-IKRrsIrN57Pz-81" value="VPC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="plxMo8V-IKRrsIrN57Pz-80" vertex="1" connectable="0">
           <mxGeometry x="-0.1284" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
